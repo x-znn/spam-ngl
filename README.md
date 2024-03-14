@@ -4,7 +4,7 @@
 > apt update && apt upgrade -y
 > pkg install python3 git libxml2 libxslt -y
 > git clone https://github.com/x-znn/spam-ngl
-> cd Spam-NGL
+> cd spam-ngl
 > pip3 install -r require.txt
 > python3 main.py
 ```
@@ -16,7 +16,7 @@
 > apt update && apt upgrade -y
 > pkg install python3 python3-pip git -y
 > git clone https://github.com/x-znn/spam-ngl
-> cd Spam-NGL
+> cd spam-ngl
 > pip3 install -r require.txt
 > python3 main.py
 ```
